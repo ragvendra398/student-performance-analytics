@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Maths,Physics,Chemistry,English,Computer,Attendance,Total,Average,Grade,Status
+101,Aarav Sharma,CSE,88,82,79,74,92,94,415,83.0,A,Pass
+102,Priya Singh,ECE,67,59,72,80,65,85,343,68.6,C,Pass
+103,Rohan Verma,CSE,32,45,38,50,41,60,206,41.2,F,Fail
+104,Neha Gupta,IT,91,89,94,88,96,97,458,91.6,A+,Pass
+105,Karan Mehta,ME,55,48,52,60,58,78,273,54.6,D,Pass
+106,Sneha Reddy,ECE,76,81,70,85,79,90,391,78.2,B,Pass
+107,Vikram Joshi,CSE,45,38,42,55,47,68,227,45.4,F,Fail
+108,Ananya Iyer,IT,83,77,85,90,88,92,423,84.6,A,Pass
+109,Rahul Yadav,ME,62,66,58,64,60,80,310,62.0,C,Pass
+110,Pooja Nair,CSE,95,92,90,87,98,96,462,92.4,A+,Pass
+111,Aditya Kapoor,IT,71,68,74,70,73,84,356,71.2,B,Pass
+112,Meera Das,ECE,38,42,35,48,40,55,203,40.6,F,Fail
+113,Arjun Malhotra,ME,58,61,64,59,66,82,308,61.6,C,Pass
+114,Isha Patel,CSE,79,84,81,77,86,91,407,81.4,A,Pass
+115,Siddharth Rao,IT,66,70,63,72,68,87,339,67.8,C,Pass
+116,Kavya Menon,ECE,89,85,92,91,84,95,441,88.2,A,Pass
+117,Manish Tiwari,ME,49,52,47,55,51,72,254,50.8,D,Fail
+118,Divya Bansal,CSE,73,69,75,78,80,88,375,75.0,B,Pass
+119,Harsh Agarwal,IT,41,36,44,52,39,63,212,42.4,F,Fail
+120,Riya Chopra,ECE,82,79,86,83,90,93,420,84.0,A,Pass
